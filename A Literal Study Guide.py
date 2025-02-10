@@ -1,4 +1,5 @@
 # Author: Sneaky Celery
+# A Literal Study Guide
 
 '''This file is a study guide to learn about literals, data types, variables, functions, iterations, and values.
    Several functions are commented out, be deliberate about uncommenting and recommenting lines of code as you go
