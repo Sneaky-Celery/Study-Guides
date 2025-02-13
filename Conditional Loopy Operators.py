@@ -1,5 +1,6 @@
 # Author: Sneaky Celery
 # Conditional Loopy Operators
+# Not the general surgeon you wanted.
 
 '''In this study guide, we will utilize the previous concepts to contruct more interesting
    functions, conditionals, and loops. Again, several portions are commented-out and in this
